@@ -82,18 +82,5 @@ python infer.py --data-path /home/imagenet --model deit_small_mlerp --model-path
 
 ## Acknowledgements
 
-Our code is based on [pytorch-image-models](https://github.com/rwightman/pytorch-image-models), [DeiT](https://github.com/facebookresearch/deit), [DynamicViT](https://github.com/raoyongming/DynamicViT).
-
-## Citation
-If you find our work useful in your research, please consider citing:
-```
-@inproceedings{kong2022spvit,
-  title={SPViT: Enabling Faster Vision Transformers via Latency-Aware Soft Token Pruning},
-  author={Kong, Zhenglun and Dong, Peiyan and Ma, Xiaolong and Meng, Xin and Niu, Wei and Sun, Mengshu and Shen, Xuan and Yuan, Geng and Ren, Bin and Tang, Hao and others},
-  booktitle={Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part XI},
-  pages={620--640},
-  year={2022},
-  organization={Springer}
-}
-```
+Our code is based on [pytorch-image-models](https://github.com/rwightman/pytorch-image-models), [DeiT](https://github.com/facebookresearch/deit), [DynamicViT](https://github.com/raoyongming/DynamicViT), [SPViT](https://github.com/PeiyanFlying/SPViT).
 
